@@ -1,11 +1,11 @@
 # Text-Summarization-using-SPacy
 Using "Spacy the free open source library for NLP  creating text summarization
 
-what is text summarization
+##what is text summarization
 it is a process of distikking the mowt important information from source text
 
-Importance of automatic text summarization
-why automatic text summarization
+##Importance of automatic text summarization
+###why automatic text summarization
 
 summaries reduce reading time
 
@@ -19,14 +19,14 @@ Prsonalized summaries are useful in question-answering sustems as they provide p
 
 Using automatic or semi-automatic summarization systems enables commercial abstract services to - increase the number of text documents they are able to process.
 
-Important Steps in Text summarization
+#Important Steps in Text summarization
 text cleaning
 sentence tokenization
 word tokenization
 worid-frequency table
 summarization
 
-libraries to install for text summarization
+#libraries to install for text summarization
 # Download important libraries
 !pip install -U spacy
 !python -m spacy download en_core_web_sm
