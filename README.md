@@ -35,3 +35,7 @@ import spacy
 from spacy.lang.en.stop_words import STOP_WORDS
 
 from string import punctuation
+
+
+#Common Lets start
+![myImage](https://media.giphy.com/media/XRB1uf2F9bGOA/giphy.gif)
