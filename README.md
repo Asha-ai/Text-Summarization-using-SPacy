@@ -28,6 +28,8 @@ summarization
 
 #libraries to install for text summarization
 # Download important libraries
+
+```python
 !pip install -U spacy
 !python -m spacy download en_core_web_sm
 
@@ -35,6 +37,9 @@ import spacy
 from spacy.lang.en.stop_words import STOP_WORDS
 
 from string import punctuation
+
+```
+
 
 
 #Common Lets start
