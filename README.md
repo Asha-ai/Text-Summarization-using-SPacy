@@ -26,8 +26,7 @@ it is a process of distikking the mowt important information from source text
 * worid-frequency table
 * summarization
 
-#libraries to install for text summarization
-# Download Required libraries
+# libraries to install for text summarization
 
 ```python
 !pip install -U spacy
