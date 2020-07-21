@@ -27,7 +27,7 @@ worid-frequency table
 summarization
 
 #libraries to install for text summarization
-# Download important libraries
+# Download Required libraries
 
 ```python
 !pip install -U spacy
