@@ -20,11 +20,11 @@ it is a process of distikking the mowt important information from source text
 ## Using automatic or semi-automatic summarization systems enables commercial abstract services to - increase the number of text documents they are able to process.
 
 # Important Steps in Text summarization
-text cleaning
-sentence tokenization
-word tokenization
-worid-frequency table
-summarization
+* text cleaning
+* sentence tokenization
+* word tokenization
+* worid-frequency table
+* summarization
 
 #libraries to install for text summarization
 # Download Required libraries
