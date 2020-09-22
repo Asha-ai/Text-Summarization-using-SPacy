@@ -1,3 +1,6 @@
+# Go through my blog @Medium for forther details 
+https://medium.com/@ashaicy99/text-summarization-using-spacy-5d3096304786
+
 # Text-Summarization-using-SPacy
 Using "Spacy the free open source library for NLP  creating text summarization
 
